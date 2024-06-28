@@ -26,7 +26,8 @@ For deployment, I'm utilizing several tools and features to streamline my workfl
 The following folders will be organized by folder and indicate the level of skill being applied.
 
 - **HTML:** As the name suggests, the project will be HTML-based.
-  - **HTML:** The project demonstrates my understanding of HTML elements such as headers (h1-h6), paragraphs (p), horizontal rules (hr), and line breaks (br).
+  - **Basic:** The project demonstrates my understanding of HTML elements such as headers (h1-h6), paragraphs (p), horizontal rules (hr), and line breaks (br).
+  - **Intermediate:** The project showcases my clear and concise technical grasp of HTML elements and concepts like lists, nesting, anchors, and images.
 
 ## Improvement
 
