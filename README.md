@@ -4,9 +4,21 @@ I am completing Dr. Angela Yu's course on becoming a full-stack web developer, w
 
 ## Setup
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 
-1. Open the project in VSCode:
+   Open your terminal and run the following commands:
+
+   ```bash
+   git clone https://github.com/alexcoy06/Full-Stack-Practice.git
+   cd Full-Stack-Practice
+   ```
+
+2. **Open the Project in VSCode:**
+   After navigating to the project directory, you can open it in VSCode by running:
+
+   ```bash
+   code .
+   ```
 
 ### Deployment Resources
 
@@ -14,16 +26,24 @@ For deployment, I'm utilizing several tools and features to streamline my workfl
 
 ## Repository Structure
 
-The following folders will be organized by folder and indicate the level of skill being applied.
+The following folders will be organized by folder and indicate the level of skill being applied. As the names will suggest, the project will be based off of that topic.
 
-- **HTML:** As the name suggests, the project will be HTML-based.
-  - **Basic:** The project demonstrates my understanding of HTML elements such as headers (h1-h6), paragraphs (p), horizontal rules (hr), and line breaks (br).
-  - **Intermediate:** The project showcases my clear and concise technical grasp of HTML elements and concepts like lists, nesting, anchors, and images.
-  - **Project-1:** This project demonstrates my proficiency in multi-page websites and integrates all of my skills.
+### HTML
+
+- **Basic:** The project demonstrates my understanding of HTML elements such as headers (h1-h6), paragraphs (p), horizontal rules (hr), and line breaks (br).
+- **Intermediate:** The project showcases my clear and concise technical grasp of HTML elements and concepts like lists, nesting, anchors, and images.
+- **Index:** This project demonstrates my proficiency in multi-page websites and integrates all of my skills.
+
+### CSS
+
+**Intro:** This project was a reference to my basic understanding of CSS by making flash card for color in Japanese(Katakana).
 
 ## Improvement
 
 Any and all improvements will be displayed here as new methods and insights are discovered.
+
+7/11  
+Capstones related to my practice will be titled `FS-Capstone` followed by a number indicating their order of completion as Full Stack projects. A smaller number signifies an older project and vice versa.
 
 ## Feedback
 
