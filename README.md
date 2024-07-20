@@ -30,13 +30,14 @@ The following folders will be organized by folder and indicate the level of skil
 
 ### HTML
 
-- **Basic:** The project demonstrates my understanding of HTML elements such as headers (h1-h6), paragraphs (p), horizontal rules (hr), and line breaks (br).
-- **Intermediate:** The project showcases my clear and concise technical grasp of HTML elements and concepts like lists, nesting, anchors, and images.
-- **Index:** This project demonstrates my proficiency in multi-page websites and integrates all of my skills.
+- **Basic:** List of shows I enjoy
+- **Intermediate:** Birthday Invitation
+- **Index:** First Website Portfolio
 
 ### CSS
 
-**Intro:** This project was a reference to my basic understanding of CSS by making flash card for color in Japanese(Katakana).
+- **Intro:** Japanese(Katakana) Color Flashcards
+- **Basic:** Motivational Meme
 
 ## Improvement
 
