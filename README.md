@@ -38,6 +38,7 @@ The following folders will be organized by folder and indicate the level of skil
 
 - **Intro:** Japanese(Katakana) Color Flashcards
 - **Basic:** Motivational Meme
+- **Intermediate:** The Flag of Laos
 
 ## Improvement
 
@@ -45,6 +46,9 @@ Any and all improvements will be displayed here as new methods and insights are 
 
 7/11  
 Capstones related to my practice will be titled `FS-Capstone` followed by a number indicating their order of completion as Full Stack projects. A smaller number signifies an older project and vice versa.
+
+7/26  
+Discovered that the CSS4 update introduces support for nesting rules within other rules, allowing for more organized and hierarchical styling, eliminating the need to use preprocessors like SASS, personally.
 
 ## Feedback
 
